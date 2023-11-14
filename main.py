@@ -44,6 +44,7 @@ if __name__ =='__main__':
     print(len(lista3))
     print(len(lista4))
 
+    print()
     print(lista1)
     lista1[0] = 1
     print()
