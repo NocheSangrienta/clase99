@@ -25,7 +25,7 @@ usando un subindice'''
 lista1 = [10, 5, 3, 9]
 
 #lista de decimales
-lista2 = [1.78, 2.66, 1.55, 89,4]
+lista2 = [1.78, 2.66, 1.55, 89.4, 6.9]
 
 #lista de string
 lista3 = ["Lunes","Martes","Miercoles"]
