@@ -31,7 +31,8 @@ lista2 = [1.78, 2.66, 1.55, 89.4, 6.9]
 lista3 = ["Lunes","Martes","Miercoles"]
 
 '''
-lista de elementos distinto tipo'''
+lista de elementos distinto tipo
+'''
 
 lista4 = ["juan",45,1.92,False]
 
